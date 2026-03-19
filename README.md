@@ -40,4 +40,5 @@ PRs, feedback, and ideas welcome.
 
 ## License
 
-MIT
+GNU 3.0
+
